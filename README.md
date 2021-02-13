@@ -1,1 +1,2 @@
-# TableauHW
+	I decided to analyze Jersey City bicycle data from November 2018 to April 2019. I chose this time period so that I can analyze all of the biking done in the winter as well as a little bit of time before and after winter. I did 2018 to 2019 instead of 2019 to 2020 because I wanted to analyze a time period that was not impacted by Coronavirus. I used Tableau to conduct my analysis. I created a Tableau Public Workbook for this assignment. 
+	
